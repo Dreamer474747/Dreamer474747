@@ -1,6 +1,6 @@
 ### Mobin Taataghi
 
-**'Front End Developer'**
+**`Front End Developer`**
 
 im a junior front end developer and i had just begun to start my journey in coding and joining the community. its the only thing that makes me forget the about the time.
 <!--
