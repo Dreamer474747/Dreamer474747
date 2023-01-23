@@ -26,7 +26,7 @@ im a junior front end developer and i think before learning to code i was just b
 
 ![Dreamer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dreamer474747&show_icons=true&theme=gruvbox)
 
-
+#
 
 
 
