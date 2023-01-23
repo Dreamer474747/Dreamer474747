@@ -19,13 +19,14 @@ im a junior front end developer and i think before learning to code i was just b
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <br />
+
 #
 
 ### 📊 Stats
 
 ![Dreamer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dreamer474747&show_icons=true&theme=gruvbox)
 
-#
+
 
 
 
