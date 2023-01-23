@@ -10,6 +10,7 @@ im a junior front end developer and i think before learning to code i was just b
       <a href="https://github.com/Dreamer474747?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Dreamer474747?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
+   
 ---
 
 ### 🧰 Languages and Tools
