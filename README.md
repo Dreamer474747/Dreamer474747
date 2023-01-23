@@ -22,7 +22,7 @@ im a junior front end developer and i think before learning to code i was just b
 
 ### 📊 Stats
 
-![Dreamer's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox)
+![Dreamer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dreamer474747&show_icons=true&theme=gruvbox)
 
 
 
