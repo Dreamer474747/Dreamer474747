@@ -35,10 +35,10 @@ im a junior front end developer and i think before learning to code i was just b
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dreamer474747&show_icons=true&locale=en&layout=compact" alt="dreamer474747" /></p>
 
-<br  />
-<br  />
-<br  />
-<br  />
+<br/>
+<br/>
+<br/>
+<br/>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dreamer474747&" alt="dreamer474747" /></p>
 
