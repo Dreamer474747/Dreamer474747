@@ -4,7 +4,7 @@
 
 im a junior front end developer and i think before learning to code i was just breathing infinite times and doing some ordinary stuff. but now i know how to code! and that makes my life a little diffrent. and thats what you are looking for, somthing diffrent!
 
-- 🔭 I’m currently working on **a sample work**
+- 🔭 I’m currently working on **a Service site**
 
 - 📫 you can reach me from here: **mobin77tataghi@gmail.com**
 
