@@ -8,7 +8,9 @@ im a junior front end developer and i think before learning to code i was just b
 
 - 📫 you can reach me from here: **mobin77tataghi@gmail.com**
 
-- ⚡ fun fact: **I write poems.**
+- 📝 I start to write articles soon on [Mobin's linkedin](https://linkedin.com/in/mobin-taataghi-b6bb9b227)
+
+- ⚡ fun fact: **I write poems**
 
 #
 
