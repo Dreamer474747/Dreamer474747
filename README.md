@@ -33,12 +33,7 @@ im a junior front end developer and i think before learning to code i was just b
 
 ![Dreamer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dreamer474747&show_icons=true&theme=gruvbox)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dreamer474747&show_icons=true&locale=en&layout=compact" alt="dreamer474747" /></p>
+![Dreamer's Most Used Languages stats](https://github-readme-stats.vercel.app/api/top-langs?username=dreamer474747&show_icons=true&locale=en&layout=compact)
 
-<br/>
-<br/>
-<br/>
-<br/>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dreamer474747&" alt="dreamer474747" /></p>
+![Dreamer's Streak's stats](https://github-readme-streak-stats.herokuapp.com/?user=dreamer474747&)
 
