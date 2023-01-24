@@ -4,12 +4,19 @@
 
 im a junior front end developer and i think before learning to code i was just breathing infinite times and doing some ordinary stuff. but now i know how to code! and that makes my life a little diffrent. and thats what you are looking for, somthing diffrent!
 
-<!-- <p align="left">
-      <a href="https://github.com/Dreamer474747?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Dreamer474747?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/Dreamer474747?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Dreamer474747?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p> -->
+- 🔭 I’m currently working on **a sample work**
+
+- 📫 you can reach me from here: **mobin77tataghi@gmail.com**
+
+- ⚡ fun fact: **I write poems.**
+
+#
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/mobin-taataghi-b6bb9b227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mobin-taataghi-b6bb9b227" height="30" width="40" /></a>
+<a href="https://instagram.com/mobintaataghi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mobintaataghi" height="30" width="40" /></a>
+</p>
    
 ---
 
