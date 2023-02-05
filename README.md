@@ -18,7 +18,7 @@ im a junior front end developer and i think before learning to code i was just b
 <p align="left">
 <a href="https://linkedin.com/in/mobin-taataghi-b6bb9b227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mobin-taataghi-b6bb9b227" height="30" width="40" /></a>
 <a href="https://instagram.com/mobintaataghi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mobintaataghi" height="30" width="40" /></a>
-<a href="https://t.me/Mobin_Taataghi" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/telegram-1.svg" alt="mobin" height="30" width="40" /></a>
+<a href="https://t.me/Dreamer474747" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/telegram-1.svg" alt="mobin" height="30" width="40" /></a>
 </p>
    
 ---
