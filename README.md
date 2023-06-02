@@ -34,9 +34,5 @@ junior front end developer
 
 ### 📊 Stats
 
-![Dreamer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dreamer474747&show_icons=true&theme=gruvbox)
-
-![Dreamer's Most Used Languages stats](https://github-readme-stats.vercel.app/api/top-langs?username=dreamer474747&show_icons=true&locale=en&layout=compact)
-
 ![Dreamer's Streak's stats](https://github-readme-streak-stats.herokuapp.com/?user=dreamer474747&)
 
