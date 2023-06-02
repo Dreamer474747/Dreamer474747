@@ -2,9 +2,9 @@
 
 **`Front End Developer`**
 
-im a junior front end developer and i think before learning to code i was just breathing infinite times and doing some ordinary stuff. but now i know how to code! and that makes my life a little diffrent. and thats what you are looking for, somthing diffrent!
+junior front end developer
 
-- 🔭 I’m currently working on **a Service site**
+- 🔭 I’m currently working on **a store site work sample**
 
 - 📫 you can reach me from here: **mobin77tataghi@gmail.com**
 
