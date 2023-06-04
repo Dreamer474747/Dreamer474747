@@ -12,7 +12,7 @@ junior front end developer
 
 - ⚡ fun fact: **I write poems**
 
-#
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,11 +28,17 @@ junior front end developer
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
 <br />
 
 #
 
-### 📊 Stats
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Dreamer474747&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Dreamer474747&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dreamer474747&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![Dreamer's Streak's stats](https://github-readme-streak-stats.herokuapp.com/?user=dreamer474747&)
+
+
+
 
