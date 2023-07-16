@@ -4,13 +4,13 @@
 
 junior front end developer
 
-- 🔭 I’m currently working on **a store site work sample**
+-  I’m currently working on **a store site work sample**
 
-- 📫 you can reach me from here: **mobin77tataghi@gmail.com**
+-  you can reach me from here: **mobin77tataghi@gmail.com**
 
-- 📝 I write articles on [My Linkedin](https://linkedin.com/in/mobin-taataghi-b6bb9b227)
+-  I write articles on [My Linkedin](https://linkedin.com/in/mobin-taataghi-b6bb9b227)
 
-- ⚡ fun fact: **I write poems**
+-  fun fact: **I write poems**
 
 
 
