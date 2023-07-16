@@ -8,7 +8,7 @@ junior front end developer
 
 -  you can reach me from here: **mobin77tataghi@gmail.com**
 
--  I write articles on [My Linkedin](https://linkedin.com/in/mobin-taataghi-b6bb9b227)
+-  I write articles on [My Linkedin](https://linkedin.com/in/mobin-taataghi)
 
 -  fun fact: **I write poems**
 
@@ -16,7 +16,7 @@ junior front end developer
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mobin-taataghi-b6bb9b227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mobin-taataghi-b6bb9b227" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mobin-taataghi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mobin-taataghi's-linkedin" height="30" width="40" /></a>
 <a href="https://instagram.com/mobintaataghi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mobintaataghi" height="30" width="40" /></a>
 <a href="https://t.me/Dreamer474747" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/telegram-1.svg" alt="mobin" height="30" width="40" /></a>
 </p>
@@ -28,7 +28,7 @@ junior front end developer
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+<img align="left" alt="Tailwind" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
 <br />
 
 #
