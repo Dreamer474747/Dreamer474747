@@ -10,7 +10,7 @@ junior front end developer
 
 -  I write articles on [My Linkedin](https://linkedin.com/in/mobin-taataghi)
 
--  fun fact: **I write poems**
+-  fun fact: **I used to write poems**
 
 
 
