@@ -4,13 +4,11 @@
 
 junior front end developer
 
--  I’m currently working on **a chat app**
+-  I’m currently working on **wordpress plugin**
 
 -  you can reach me from here: **mobin77tataghi@gmail.com**
 
 -  I write articles on [My Linkedin](https://linkedin.com/in/mobin-taataghi)
-
--  fun fact: **I used to write poems**
 
 
 
